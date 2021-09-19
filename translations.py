@@ -2,7 +2,7 @@ from config import ASSISTANT_NAME
 from helpers.bot_utils import BOT_NAME, USERNAME
 
 
-START_TEXT = f"👋🏻 **Hello**, \n\nThis is **{BOT_NAME}** \nI Can Stream Lives, Radios, YouTube Videos & Telegram Audio / Video Files On Voice Chat Of Telegram Groups. Let's Enjoy Cinematic View Of Group Video Player With Your Friends 😉! \n\n**Made With ❤️ By @ImSafone!** 👑"
+START_TEXT = f"👋🏻 **Merhaba**, \n\nThis is **{BOT_NAME}** \nBen Canlı yayın Botuyum, Radios, YouTube Videos & Telegram Audio / Video Telegram gruplarının Sesli sohbetlerinde video izletebilirim. Arkadaşlarınızla Grup Video Oynatıcısının Sinematik Görünümünün Tadını Çıkaralım 😉! \n\n**Telegramın Çirkin Kralı❤️ By @KizilsancakSahibi!** 👑"
 HELP_TEXT = f"""
 🛠-- **Setting Up Bot**:--
 
